@@ -10,7 +10,7 @@ keywords: mathematics, graph theory, approximation algorithms
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐱 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 email: sg23ms120@iiserkol.ac.in
-
+github: suparnoghosh
 url: https://suparnoghosh.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
