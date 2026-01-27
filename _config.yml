@@ -40,7 +40,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: false
@@ -59,6 +59,12 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
+
+
+social:
+  email: sg23ms120@iiserkol.ac.in
+  linkedin: suparnoghosh
+  github: suparnoghosh
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
