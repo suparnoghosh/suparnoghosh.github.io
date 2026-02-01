@@ -29,11 +29,7 @@
       "startDate": "2023-08-16",
       "endDate": "",
       "score": "CGPA: 9.03 (SGPA: 9.80)",
-      "courses": [
-        "Pure Mathematics",
-        "Computational and Data Science",
-        "Physics (Pre-major)"
-      ]
+      "courses": ["Pure Mathematics", "Computational and Data Science", "Physics (Pre-major)"]
     }
   ],
 
@@ -95,11 +91,7 @@
       "name": "Horizontal Visibility Graphs for Heart Rate Variability",
       "startDate": "2025-11-01",
       "summary": "Study of the efficacy of horizontal visibility graphs in modeling chaos and anomalies in heart rate variability using time-series analysis.",
-      "highlights": [
-        "Graph-based modeling of HRV",
-        "Clustering, transitivity, and chaos indicators",
-        "Application to medical anomaly detection"
-      ]
+      "highlights": ["Graph-based modeling of HRV", "Clustering, transitivity, and chaos indicators", "Application to medical anomaly detection"]
     },
     {
       "name": "Calculus of Variations and Differential Geometry Notes",
@@ -117,32 +109,15 @@
   "skills": [
     {
       "name": "Mathematics",
-      "keywords": [
-        "Structural Graph Theory",
-        "Calculus of Variations",
-        "Linear Algebra",
-        "Functional Analysis",
-        "Probability Theory"
-      ]
+      "keywords": ["Structural Graph Theory", "Calculus of Variations", "Linear Algebra", "Functional Analysis", "Probability Theory"]
     },
     {
       "name": "Algorithms and Optimization",
-      "keywords": [
-        "Approximation Algorithms",
-        "LP Relaxation",
-        "Primal–Dual Methods",
-        "Semidefinite Programming"
-      ]
+      "keywords": ["Approximation Algorithms", "LP Relaxation", "Primal–Dual Methods", "Semidefinite Programming"]
     },
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "C++",
-        "MATLAB",
-        "SageMath",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "C++", "MATLAB", "SageMath", "LaTeX"]
     }
   ],
 
@@ -164,18 +139,11 @@
   "interests": [
     {
       "name": "Chess",
-      "keywords": [
-        "Gold Medalist – IISM 2023",
-        "Top Scorer – Parakram 2024"
-      ]
+      "keywords": ["Gold Medalist – IISM 2023", "Top Scorer – Parakram 2024"]
     },
     {
       "name": "Literature and Philosophy",
-      "keywords": [
-        "20th-century Bengali literature",
-        "Story writing",
-        "Theatre acting and direction"
-      ]
+      "keywords": ["20th-century Bengali literature", "Story writing", "Theatre acting and direction"]
     }
   ]
 }

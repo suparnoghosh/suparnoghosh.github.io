@@ -6,4 +6,3 @@ overrides:
   - files: "*.yml"
     options:
       parser: yaml
-

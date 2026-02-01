@@ -61,8 +61,6 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
-
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -136,7 +134,6 @@ newsletter:
 collections:
   books:
     output: true
-
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -617,7 +614,6 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 
-    
 jsonresume:
   - basics
   - education
@@ -628,4 +624,3 @@ jsonresume:
   - skills
   - languages
   - interests
-
