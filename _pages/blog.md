@@ -2,7 +2,10 @@
 layout: page
 title: Blog
 permalink: /blog/
+nav: true
+nav_order: 3
 ---
+
 
 ## Blogs coming soon.
 
