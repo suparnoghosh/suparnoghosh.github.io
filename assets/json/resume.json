@@ -90,30 +90,15 @@
     {
       "name": "Horizontal Visibility Graphs for Heart Rate Variability",
       "startDate": "2025-11-01",
-      "summary": "The idea was introduced as a research topic for presentation at Abhiprajna Competition 2025. A few recent
-developments on the topic was discovered and were later taken up as a project work to further explore the reliability
-of HVG as a good model to measure and analyze chaos in HRV. The chaotic pattern of heart rate can be very accurately
-modelled using time-series analysis of pulse data which can then be analyzed using various preset parameters. This
-promises to reveal multiple crucial tells on existence of anomalies or diseases in the human heart.
-This project is presently under development.",
+      "summary": "The idea was introduced as a research topic for presentation at Abhiprajna Competition 2025. A few recent developments on the topic were discovered and later taken up as a project to further explore the reliability of HVG as a model to measure and analyze chaos in HRV. The chaotic pattern of heart rate can be accurately modelled using time-series analysis of pulse data and analyzed using various preset parameters.",
+
       "highlights": ["Graph-based modeling of HRV", "Clustering, transitivity, and chaos indicators", "Application to medical anomaly detection"]
     },
     {
       "name": "Calculus of Variations and Differential Geometry Notes",
       "startDate": "2025-05-01",
-      "summary": "Part of a study under Prof. K. Sandeep, TIFR-CAM, Bengaluru. This note has been prepared with reference to various
-online and offline resources, along with the professor’s teachings.
-I learnt various functional analytical techniques and studies to define familiar notions of several variables. Starting
-from boundedness, continuity, the Frechet Derivative, chain rule and the mean value theorem, moving on to inverse
-and implicit function theorems - I studied surfaces, patches, atlases, tangents and normals from differential geometry
-using the techniques from before.
-All these were then used in the second part of the work: study of calculus of variations.
-I learnt multiple topics ranging from the first variation, functionals of higher orders and with multiple independents to
-the isoperimetric problem, the inverse problem and lagrange multiplier.
-A really fascinating part of the study was then to study the previously studied notions of Frechet Derivative and
-Dirichlet principle using the machinery of calculus of variations.
-I am now working on the formulations of these techniques to study Hamiltonians and Noether's Theorem from a
-purely mathematical standpoint.",
+      "summary": "Part of a study under Prof. K. Sandeep at TIFR-CAM, Bengaluru. This work was prepared using a combination of online and offline resources along with the professor’s lectures. I studied functional analytic techniques to rigorously define notions from multivariable calculus, including boundedness, continuity, Fréchet derivative, chain rule, mean value theorem, and the inverse and implicit function theorems. This framework was then used to study surfaces, patches, atlases, tangents, and normals from differential geometry. In the second part, these tools were applied to the calculus of variations, covering topics such as first variation, higher-order functionals, multiple independent variables, isoperimetric problems, inverse problems, and Lagrange multipliers. A particularly interesting aspect was revisiting the Fréchet derivative and the Dirichlet principle through variational methods. I am currently working on extending these ideas toward the study of Hamiltonians and Noether’s theorem from a purely mathematical perspective."
+
       "highlights": [
         "First variation and higher-order functionals",
         "Isoperimetric problems and Lagrange multipliers",
