@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: 
+description: Academic curriculum vitae detailing my education, research interests, projects, and awards.
 toc:
   sidebar: left
 ---
