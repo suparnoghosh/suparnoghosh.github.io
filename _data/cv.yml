@@ -2,96 +2,87 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Suparno Ghosh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8 May 2005
+    - name: Nationality
+      value: Indian
     - name: Languages
-      value: English, German
+      value: Bengali (Native), English (C2), French (A2–B1)
+    - name: Address
+      value: C-009, NSCB Boys Hostel, IISER Kolkata, Haringhata, Kalyani, West Bengal, India
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS–MS (Undergraduate)
+      institution: Indian Institute of Science Education and Research Kolkata
+      year: 2023 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Majoring in Mathematics (Pure)
+        - Minoring in Computational and Data Science
+        - Pre-major in Physics
+        - Current SGPA: 9.80, Current CGPA: 9.03
 
-- title: Experience
+- title: Research and Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Student Intern
+      institution: Tata Institute of Fundamental Research – Centre for Applicable Mathematics, Bengaluru
+      year: May 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Study of calculus of variations using techniques from advanced multivariable calculus and differential geometry
+        - Topics include Fréchet derivative, inverse and implicit function theorems, surfaces, manifolds, and variational principles
+        - Ongoing work toward Hamiltonians and Noether’s theorem from a mathematical perspective
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Testing the Efficacy of Horizontal Visibility Graphs in Modeling Heart Rate Variability
+      year: Nov 2025 – Present
+      description:
+        - Graph-theoretic modeling of chaos in heart rate variability using horizontal visibility graphs
+        - Application to anomaly and disease detection from time-series pulse data
+        - Project initiated for Abhiprajna 2025 and currently under development
+
+    - title: Study of Calculus of Several Variables and Calculus of Variations
+      year: May 2025 – Present
+      description:
+        - Study under Prof. K. Sandeep (TIFR-CAM)
+        - Functional analytic foundations of multivariable calculus and variational methods
+        - Applications to Dirichlet principle, Fréchet derivatives, and geometric analysis
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Winner, Abhiprajna 2025 (IISER Tirupati)
+        - Summer Research Fellowship, Indian Academy of Sciences / INSA / NASI
+    - year: 2023
       items:
-        - Max Planck Medal
+        - INSPIRE Scholarship, Department of Science and Technology, Government of India
+    - year: 2021
+      items:
+        - JBNSTS Fellowship, Government of West Bengal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Graph Theory
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Structural graph theory
+        - Digraphs and visibility graphs
+        - Applications to interdisciplinary systems
+    - title: Analysis and Optimization
       items:
-        - Description 1.
-        - Description 2.
+        - Calculus of variations
+        - Functional analysis
+        - Approximation algorithms
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Chess:</u> Gold Medalist (IISM 2023), Top Scorer (Parakram ’24)
+    - <u>Literature:</u> 20th-century Bengali literature, story writing
+    - <u>Theatre:</u> Acting and direction in annual productions
