@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate at IISER Kolkata · Mathematics
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>C-009, NSCB Boys Hostel</p>
+    <p>IISER Kolkata</p>
+    <p>Haringhata, Kalyani</p>
+    <p>West Bengal, India</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello I am Suparno. Here's a link to my favourite subreddit [subreddit](http://reddit.com). Look at the CV and blog page on this website for more details about me.
+Hello! I’m **Suparno**, a third-year undergraduate student at **IISER Kolkata**, majoring in **Mathematics** with a minor in **Computational and Data Science**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic interests lie primarily in **structural graph theory**, **approximation algorithms**, and **calculus of variations**, especially in understanding how abstract mathematical structures interact with computational and applied problems. I am particularly interested in graph-theoretic viewpoints on real-world and interdisciplinary systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find more details about my academic background and work on the **CV** and **Projects** pages of this website. I also plan to write informal notes and reflections on mathematics and related topics on the **Blog** page.
+
+Outside academics, I enjoy chess, Bengali literature, philosophy, theatre—and occasionally wasting time on  
+[r/physicsmemes](https://www.reddit.com/r/physicsmemes/).
