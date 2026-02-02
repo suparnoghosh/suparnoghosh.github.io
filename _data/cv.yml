@@ -2,87 +2,87 @@
   type: map
   contents:
     - name: Full Name
-      value: Suparno Ghosh
+      value: "Suparno Ghosh"
     - name: Date of Birth
-      value: 8 May 2005
+      value: "8 May 2005"
     - name: Nationality
-      value: Indian
+      value: "Indian"
     - name: Languages
-      value: Bengali (Native), English (C2), French (A2–B1)
+      value: "Bengali (Native), English (C2), French (A2–B1)"
     - name: Address
-      value: C-009, NSCB Boys Hostel, IISER Kolkata, Haringhata, Kalyani, West Bengal, India
+      value: "C-009, NSCB Boys Hostel, IISER Kolkata, Haringhata, Kalyani, West Bengal, India"
 
 - title: Education
   type: time_table
   contents:
-    - title: BS–MS (Undergraduate)
-      institution: Indian Institute of Science Education and Research Kolkata
-      year: 2023 – Present
+    - title: "BS–MS (Undergraduate)"
+      institution: "Indian Institute of Science Education and Research Kolkata"
+      year: "2023 – Present"
       description:
-        - Majoring in Mathematics (Pure)
-        - Minoring in Computational and Data Science
-        - Pre-major in Physics
-        - Current SGPA: 9.80, Current CGPA: 9.03
+        - "Major in Mathematics (Pure)"
+        - "Minor in Computational and Data Science"
+        - "Pre-major in Physics"
+        - "Current SGPA: 9.80, Current CGPA: 9.03"
 
 - title: Research and Experience
   type: time_table
   contents:
-    - title: Student Intern
-      institution: Tata Institute of Fundamental Research – Centre for Applicable Mathematics, Bengaluru
-      year: May 2025 – Present
+    - title: "Student Intern"
+      institution: "Tata Institute of Fundamental Research – Centre for Applicable Mathematics, Bengaluru"
+      year: "May 2025 – Present"
       description:
-        - Study of calculus of variations using techniques from advanced multivariable calculus and differential geometry
-        - Topics include Fréchet derivative, inverse and implicit function theorems, surfaces, manifolds, and variational principles
-        - Ongoing work toward Hamiltonians and Noether’s theorem from a mathematical perspective
+        - "Study of calculus of variations using techniques from advanced multivariable calculus and differential geometry"
+        - "Topics include Fréchet derivative, inverse and implicit function theorems, surfaces, manifolds, and variational principles"
+        - "Ongoing work toward Hamiltonians and Noether’s theorem from a purely mathematical perspective"
 
 - title: Projects
   type: time_table
   contents:
-    - title: Testing the Efficacy of Horizontal Visibility Graphs in Modeling Heart Rate Variability
-      year: Nov 2025 – Present
+    - title: "Testing the Efficacy of Horizontal Visibility Graphs in Modeling Heart Rate Variability"
+      year: "Nov 2025 – Present"
       description:
-        - Graph-theoretic modeling of chaos in heart rate variability using horizontal visibility graphs
-        - Application to anomaly and disease detection from time-series pulse data
-        - Project initiated for Abhiprajna 2025 and currently under development
+        - "Graph-theoretic modeling of chaos in heart rate variability using horizontal visibility graphs"
+        - "Application to anomaly and disease detection from time-series pulse data"
+        - "Project initiated for Abhiprajna 2025 and currently under development"
 
-    - title: Study of Calculus of Several Variables and Calculus of Variations
-      year: May 2025 – Present
+    - title: "Study of Calculus of Several Variables and Calculus of Variations"
+      year: "May 2025 – Present"
       description:
-        - Study under Prof. K. Sandeep (TIFR-CAM)
-        - Functional analytic foundations of multivariable calculus and variational methods
-        - Applications to Dirichlet principle, Fréchet derivatives, and geometric analysis
+        - "Study under Prof. K. Sandeep (TIFR-CAM, Bengaluru)"
+        - "Functional analytic foundations of multivariable calculus and variational methods"
+        - "Applications to the Dirichlet principle, Fréchet derivatives, and geometric analysis"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: "2025"
       items:
-        - Winner, Abhiprajna 2025 (IISER Tirupati)
-        - Summer Research Fellowship, Indian Academy of Sciences / INSA / NASI
-    - year: 2023
+        - "Winner, Abhiprajna 2025 (IISER Tirupati)"
+        - "Summer Research Fellowship, IAS / INSA / NASI"
+    - year: "2023"
       items:
-        - INSPIRE Scholarship, Department of Science and Technology, Government of India
-    - year: 2021
+        - "INSPIRE Scholarship, Department of Science and Technology, Government of India"
+    - year: "2021"
       items:
-        - JBNSTS Fellowship, Government of West Bengal
+        - "JBNSTS Fellowship, Government of West Bengal"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Graph Theory
+    - title: "Graph Theory"
       items:
-        - Structural graph theory
-        - Digraphs and visibility graphs
-        - Applications to interdisciplinary systems
-    - title: Analysis and Optimization
+        - "Structural graph theory"
+        - "Visibility graphs and digraphs"
+        - "Applications to interdisciplinary systems"
+    - title: "Analysis and Optimization"
       items:
-        - Calculus of variations
-        - Functional analysis
-        - Approximation algorithms
+        - "Calculus of variations"
+        - "Functional analysis"
+        - "Approximation algorithms"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Chess:</u> Gold Medalist (IISM 2023), Top Scorer (Parakram ’24)
-    - <u>Literature:</u> 20th-century Bengali literature, story writing
-    - <u>Theatre:</u> Acting and direction in annual productions
+    - "<u>Chess:</u> Gold Medalist (IISM 2023), Top Scorer (Parakram ’24)"
+    - "<u>Literature:</u> 20th-century Bengali literature, story writing"
+    - "<u>Theatre:</u> Acting and direction in annual productions"
