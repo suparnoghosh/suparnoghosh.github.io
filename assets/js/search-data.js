@@ -37,7 +37,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-সেই-সময়",
+        },{id: "books-ছবির-দেশে-কবিতার-দেশে",
+          title: 'ছবির দেশে কবিতার দেশে',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/chhobirdeshe/";
+            },},{id: "books-প্রথম-আলো",
+          title: 'প্রথম আলো',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/prothomalo/";
+            },},{id: "books-সেই-সময়",
           title: 'সেই সময়',
           description: "",
           section: "Books",handler: () => {
