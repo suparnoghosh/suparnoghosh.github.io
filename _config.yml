@@ -134,6 +134,8 @@ newsletter:
 collections:
   books:
     output: true
+  projects:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
