@@ -4,6 +4,7 @@ title: Calculus of Variations Notes
 description: Notes from my internship at TIFR-CAM
 importance: 1
 category: work
+img: /assets/img/brachistochrone.png
 ---
 
 These notes were prepared during my internship at **TIFR-CAM, Bengaluru** under **Prof. K. Sandeep**.
