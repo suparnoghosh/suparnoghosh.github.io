@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: projects
 title: Projects
 permalink: /projects/
 nav: true
+nav_order: 3
 ---
-
-Projects coming soon.
