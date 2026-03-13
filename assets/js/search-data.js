@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-শেশের-কবিতা",
-          title: 'শেশের কবিতা',
+        },{id: "books-শেষের-কবিতা",
+          title: 'শেষের কবিতা',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
