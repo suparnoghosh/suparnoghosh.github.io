@@ -87,6 +87,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-calculus-of-variations-notes",
+          title: 'Calculus of Variations Notes',
+          description: "Notes from my internship at TIFR-CAM",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/calculus_variations/";
             },},{
         id: 'social-cv',
         title: 'CV',
