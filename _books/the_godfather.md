@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: শেশের কবিতা
+title: শেষের কবিতা
 author: Rabindranath Tagore
 cover: assets/img/book_covers/shesher_kobita.jpg
 categories: bengali-literature classics romance philosophy poetry
