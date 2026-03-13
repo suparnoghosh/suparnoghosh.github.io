@@ -6,7 +6,7 @@ subtitle: Undergraduate at IISER Kolkata · Mathematics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pp1.jpg
   image_circular: false
   more_info: >
     <p>C-009, NSCB Boys Hostel</p>
