@@ -62,6 +62,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-তিথিডোর",
+          title: 'তিথিডোর',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tithidor/";
             },},{id: "projects-calculus-of-variations-notes",
           title: 'Calculus of Variations Notes',
           description: "Notes from my internship at TIFR-CAM",
