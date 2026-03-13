@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-ছবির-দেশে-কবিতার-দেশে",
+        },{id: "books-অপরাজিত",
+          title: 'অপরাজিত',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/aparajito/";
+            },},{id: "books-ছবির-দেশে-কবিতার-দেশে",
           title: 'ছবির দেশে কবিতার দেশে',
           description: "",
           section: "Books",handler: () => {
