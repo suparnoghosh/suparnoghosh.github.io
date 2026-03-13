@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-শেষের-কবিতা",
+        },{id: "books-সেই-সময়",
+          title: 'সেই সময়',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/seisomoy/";
+            },},{id: "books-শেষের-কবিতা",
           title: 'শেষের কবিতা',
           description: "",
           section: "Books",handler: () => {
