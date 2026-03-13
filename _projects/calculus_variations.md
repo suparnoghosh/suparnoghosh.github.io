@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Calculus of Variations Notes
 description: Notes from my internship at TIFR-CAM
 importance: 1
