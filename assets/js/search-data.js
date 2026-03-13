@@ -47,6 +47,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/kalbela/";
+            },},{id: "books-পথের-পাঁচালী",
+          title: 'পথের পাঁচালী',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/patherpanchali/";
             },},{id: "books-প্রথম-আলো",
           title: 'প্রথম আলো',
           description: "",
