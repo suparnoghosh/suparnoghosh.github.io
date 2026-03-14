@@ -24,14 +24,14 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "All of my recent projects. There has been only one big mentionable one so far...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Academic curriculum vitae detailing my education, research interests, projects, and awards.",
           section: "Navigation",
           handler: () => {
