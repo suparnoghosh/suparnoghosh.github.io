@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Undergraduate at IISER Kolkata · Mathematics
 
@@ -24,11 +24,11 @@ latest_posts:
   enabled: false
 ---
 
-Hello! I’m **Suparno**, a third-year undergraduate student at **IISER Kolkata**, majoring in **Mathematics** with a minor in **Computational and Data Science**.
+Hello! I’m **Suparno Ghosh**, a third-year undergraduate at **IISER Kolkata**, majoring in **Mathematics** with a minor in **Computational and Data Science**.
 
-My academic interests lie primarily in **structural graph theory**, **approximation algorithms**, and **calculus of variations**, especially in understanding how abstract mathematical structures interact with computational and applied problems. I am particularly interested in graph-theoretic viewpoints on real-world and interdisciplinary systems.
+My academic interests lie primarily in **structural graph theory**, **approximation algorithms**, and the **calculus of variations**. I am particularly interested in understanding how abstract mathematical structures interact with computational and applied problems, and in exploring graph-theoretic perspectives on real-world and interdisciplinary systems.
 
-You can find more details about my academic background and work on the **CV** and **Projects** pages of this website. I also plan to write informal notes and reflections on mathematics and related topics on the **Blog** page.
+More details about my academic background and work can be found on the **CV** and **Projects** pages of this website. I also plan to write informal notes and reflections on mathematics and related topics on the **Blog**.
 
-Outside academics, I enjoy chess, Bengali literature, philosophy, theatre—and occasionally wasting time on  
+Outside academics, I enjoy **chess**, **Bengali literature**, **philosophy**, and **theatre**—and occasionally wasting time on  
 [r/physicsmemes](https://www.reddit.com/r/physicsmemes/).
