@@ -57,6 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/davinci/";
+            },},{id: "books-harry-potter-series",
+          title: 'Harry Potter Series',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hpseries/";
             },},{id: "books-কালবেলা",
           title: 'কালবেলা',
           description: "",
