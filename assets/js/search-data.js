@@ -121,7 +121,7 @@ ninja.data = [{
           title: 'শেষের কবিতা',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/shesherkobita/";
             },},{id: "books-তিথিডোর",
           title: 'তিথিডোর',
           description: "",
