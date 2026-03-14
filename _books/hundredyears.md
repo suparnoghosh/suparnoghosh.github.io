@@ -3,7 +3,7 @@ layout: book-review
 title: One Hundred Years of Solitude
 author: Gabriel Garcia Marquez 
 cover: assets/img/book_covers/hundredyears.jpg
-categories: english-literature Magical-Realism Epic-Fiction
+categories: english Magical-Realism Epic-Fiction
 tags: english
 
 released: 1967
