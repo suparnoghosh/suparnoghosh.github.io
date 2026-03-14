@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/prothomalo/";
+            },},{id: "books-sapiens",
+          title: 'Sapiens',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sapiens/";
             },},{id: "books-সেই-সময়",
           title: 'সেই সময়',
           description: "",
