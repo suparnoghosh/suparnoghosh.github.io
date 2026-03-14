@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hpseries/";
+            },},{id: "books-one-hundred-years-of-solitude",
+          title: 'One Hundred Years of Solitude',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hundredyears/";
             },},{id: "books-কালবেলা",
           title: 'কালবেলা',
           description: "",
