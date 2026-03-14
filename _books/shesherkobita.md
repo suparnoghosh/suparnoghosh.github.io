@@ -3,7 +3,7 @@ layout: book-review
 title: শেষের কবিতা
 author: Rabindranath Tagore
 cover: assets/img/book_covers/shesher_kobita.jpg
-categories: bengali-literature classics romance philosophy poetry
+categories: bengali classics romance philosophy poetry
 tags: bengali-classics
 started: 2024-08-23
 finished: 2024-09-07
