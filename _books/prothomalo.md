@@ -3,7 +3,7 @@ layout: book-review
 title: প্রথম আলো
 author: Sunil Gangopadhyay
 cover: assets/img/book_covers/prothomalo.jpg
-categories: bengali-literature classics romance philosophy poetry history
+categories: bengali classics romance philosophy poetry history
 tags: bengali-classics
 started: 2021-09-12
 finished: 2021-09-15
