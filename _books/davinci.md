@@ -2,7 +2,7 @@
 layout: book-review
 title: The Da Vinci Code
 author: Dan Brown
-cover: assets/img/book_covers/davinci.jpg
+cover: assets/img/book_covers/davincicode.jpg
 categories: english-literature mystery thriller crime fiction detective history
 tags: english
 started: 2020-08-12
