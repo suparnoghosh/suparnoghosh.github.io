@@ -47,6 +47,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/chhobirdeshe/";
+            },},{id: "books-the-da-vinci-code",
+          title: 'The Da Vinci Code',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/davinci/";
             },},{id: "books-কালবেলা",
           title: 'কালবেলা',
           description: "",
