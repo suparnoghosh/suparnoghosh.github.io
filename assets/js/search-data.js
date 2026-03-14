@@ -127,6 +127,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/tithidor/";
+            },},{id: "books-তুঙ্গভদ্রার-তীরে",
+          title: 'তুঙ্গভদ্রার তীরে',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tungabhadra/";
             },},{id: "projects-calculus-of-variations-notes",
           title: 'Calculus of Variations Notes',
           description: "Notes from my internship at TIFR-CAM",
