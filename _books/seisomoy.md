@@ -3,7 +3,7 @@ layout: book-review
 title: সেই সময়
 author: Sunil Gangopadhyay
 cover: assets/img/book_covers/seisomoy.jpg
-categories: bengali-literature classics romance philosophy poetry history
+categories: bengali classics romance philosophy poetry history
 tags: bengali-classics
 started: 2021-08-12
 finished: 2021-08-15
