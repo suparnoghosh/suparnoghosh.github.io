@@ -62,6 +62,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/chhobirdeshe/";
+            },},{id: "books-chilekothar-sepai",
+          title: 'Chilekothar Sepai',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/chilekothar/";
             },},{id: "books-harry-potter-and-the-cursed-child",
           title: 'Harry Potter and the Cursed Child',
           description: "",
