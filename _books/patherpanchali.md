@@ -9,7 +9,7 @@ started: 2018-08-12
 finished: 2018-08-15
 released: 1929
 stars: 5
-status: Finished
+status: reread
 ---
 
 আমাকে নাকি অপুর মতো দেখতে। 
