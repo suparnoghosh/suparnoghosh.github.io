@@ -18,8 +18,11 @@ layout: page
         {% endunless %}
 
         <h1 id="{{ current_category }}">
-          {{ current_category | capitalize }}
-        </h1>
+  <a href="#{{ current_category }}">
+    {{ current_category | capitalize }}
+  </a>
+</h1>
+        
         <ul>
 
         {% assign category = current_category %}
