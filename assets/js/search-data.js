@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-অপরাজিত",
+        },{id: "books-angels-and-demons",
+          title: 'Angels And Demons',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/angels/";
+            },},{id: "books-অপরাজিত",
           title: 'অপরাজিত',
           description: "",
           section: "Books",handler: () => {
