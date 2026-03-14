@@ -2,7 +2,7 @@
 layout: book-review
 title: Chilekothar Sepai 
 author: Frank Herbert
-cover: assets/img/book_covers/chilekothar.jpg
+cover: assets/img/book_covers/chilekotharsepai.jpg
 categories: bengali-literature political fiction
 tags: bengali
 
