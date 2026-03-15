@@ -11,4 +11,4 @@ posters: assets/img/movie_posters/
 >
 > -- Martin Scorsese
 
-## Movies that I have watched, am watching, or plan to watch
+## Movies that I have watched, am watching, or plan to watch (not updated)
