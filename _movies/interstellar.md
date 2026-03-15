@@ -1,4 +1,5 @@
 ---
+layout: movies
 title: Interstellar
 director: Christopher Nolan
 released: 2014
