@@ -1,0 +1,121 @@
+---
+layout: default
+---
+
+{% assign year = page.released | date: '%Y' %}
+{% assign tags = page.tags | join: '' %}
+{% assign categories = page.categories | join: '' %}
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    {% if page.director or page.released %}
+    <p class="post-meta">
+      {% if page.director %}
+        Directed by {{ page.director }}
+      {% endif %}
+
+      {% if page.director and page.released %}
+        &nbsp;&middot;&nbsp;
+      {% endif %}
+
+      {% if page.released %}
+        {{ page.released }}
+      {% endif %}
+    </p>
+    {% endif %}
+
+    {% if page.watched or page.stars %}
+    <p class="post-meta">
+
+      {% if page.watched %}
+      <i class="fa-solid fa-film"></i>
+      <em>{{ page.watched }}</em>
+      {% endif %}
+
+      {% if page.stars %}
+      &nbsp;&middot;&nbsp;
+
+      {% assign full_stars = page.stars | floor %}
+      {% assign half_star = page.stars | minus: full_stars %}
+      {% assign empty_stars = 5 | minus: full_stars %}
+
+      {% if half_star > 0 %}
+        {% assign empty_stars = empty_stars | minus: 1 %}
+      {% endif %}
+
+      {% for i in (1..full_stars) %}
+        <i class="fa-solid fa-star"></i>
+      {% endfor %}
+
+      {% if half_star > 0 %}
+        <i class="fa-solid fa-star-half-stroke"></i>
+      {% endif %}
+
+      {% for i in (1..empty_stars) %}
+        <i class="fa-regular fa-star"></i>
+      {% endfor %}
+
+      {% endif %}
+    </p>
+    {% endif %}
+
+    <p class="post-tags">
+
+      {% if categories != '' %}
+      {% for category in page.categories %}
+      <a href="{{ category | slugify | prepend: '/movies/category/' | relative_url }}">
+        <i class="fa-solid fa-tag fa-sm"></i> {{ category }}
+      </a>
+      {% unless forloop.last %}
+      &nbsp;
+      {% endunless %}
+      {% endfor %}
+      {% endif %}
+
+    </p>
+
+    <hr>
+
+  </header>
+
+  <article>
+
+    {% if page.poster %}
+    <figure>
+      <img alt="{{ page.title }} poster" src="{{ site.baseurl }}/{{ page.poster }}">
+      <figcaption>
+        Poster of <em>{{ page.title }}</em>
+      </figcaption>
+    </figure>
+    {% endif %}
+
+    <br class="mobile-break" clear="right">
+
+    {{ content }}
+
+  </article>
+
+</div>
+
+<style>
+
+figure {
+  float: right;
+  padding-left: 20px;
+}
+
+figure img {
+  width:300px;
+}
+
+figure figcaption {
+  text-align:left;
+}
+
+.mobile-break {
+  display:none;
+}
+
+</style>
