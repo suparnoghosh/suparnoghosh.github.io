@@ -80,8 +80,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: I do not get it # blog_name will be displayed in your blog page
-blog_description: Whatever troubles me...
+blog_name: Je pense, donc je suis... # blog_name will be displayed in your blog page
+blog_description: Notes on mathematics, life, philosophy, and other curiosities
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
