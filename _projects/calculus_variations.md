@@ -7,7 +7,7 @@ category: work
 img: /assets/img/brachistochrone.png
 ---
 
-These notes were prepared during my internship at **TIFR-CAM, Bengaluru** under **Prof. Sandeep K.**.
+These notes were prepared during my internship at **TIFR-CAM, Bengaluru** under **Prof. Sandeep K.**
 
 The notes cover several topics in multivariable calculus and calculus of variations.
 
