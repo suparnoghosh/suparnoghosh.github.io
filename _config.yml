@@ -136,6 +136,8 @@ collections:
     output: true
   projects:
     output: true
+  movies:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
