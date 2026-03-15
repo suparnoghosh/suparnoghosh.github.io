@@ -3,7 +3,7 @@ layout: movie-reviews
 title: Interstellar
 director: Christopher Nolan
 released: 2014
-poster: assets/img/movie_posters/interstellar.jpg
+poster: interstellar.jpg
 categories: [english]
 stars: 5
 status: watched
