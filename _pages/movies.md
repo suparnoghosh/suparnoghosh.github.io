@@ -7,8 +7,9 @@ collection: movies
 posters: assets/img/movie_posters/
 ---
 
-> Cinema is a matter of what's in the frame and what's out.
->
-> -- Martin Scorsese
+> Read the scriptures.
+> From where?
+> From wherever you like.
+> -- Andrei Rublev (1966), Tarkovsky
 
 ## Movies that I have watched, am watching, or plan to watch (not updated)
