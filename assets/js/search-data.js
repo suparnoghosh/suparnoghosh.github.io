@@ -144,6 +144,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/tungabhadra/";
+            },},{id: "movies-interstellar",
+          title: 'Interstellar',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/interstellar/";
             },},{id: "projects-calculus-of-variations-notes",
           title: 'Calculus of Variations Notes',
           description: "Notes from my internship at TIFR-CAM",
