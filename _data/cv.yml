@@ -22,7 +22,7 @@
         - "Major in Mathematics (Pure)"
         - "Minor in Computational and Data Science"
         - "Pre-major in Physics"
-        - "Current SGPA: 9.80, Current CGPA: 9.03"
+        - "CGPA: 9.03 · Latest Semester SGPA: 9.80"
 
 - title: Research and Experience
   type: time_table
@@ -31,9 +31,9 @@
       institution: "Tata Institute of Fundamental Research – Centre for Applicable Mathematics, Bengaluru"
       year: "May 2025 – Present"
       description:
-        - "Study of calculus of variations using techniques from advanced multivariable calculus and differential geometry"
-        - "Topics include Fréchet derivative, inverse and implicit function theorems, surfaces, manifolds, and variational principles"
-        - "Ongoing work toward Hamiltonians and Noether’s theorem from a purely mathematical perspective"
+        - "Studying calculus of variations using techniques from advanced multivariable calculus and differential geometry"
+        - "Topics include Fréchet derivatives, inverse and implicit function theorems, manifolds, and variational principles"
+        - "Current work focuses on Hamiltonian formulations and Noether’s theorem from a mathematical perspective"
 
 - title: Projects
   type: time_table
@@ -41,16 +41,16 @@
     - title: "Testing the Efficacy of Horizontal Visibility Graphs in Modeling Heart Rate Variability"
       year: "Nov 2025 – Present"
       description:
-        - "Graph-theoretic modeling of chaos in heart rate variability using horizontal visibility graphs"
-        - "Application to anomaly and disease detection from time-series pulse data"
-        - "Project initiated for Abhiprajna 2025 and currently under development"
+        - "Graph-theoretic modeling of chaotic behavior in heart rate variability using horizontal visibility graphs"
+        - "Exploration of applications to anomaly detection and disease diagnostics from time-series pulse data"
+        - "Initiated for Abhiprajna 2025 and currently under further development"
 
     - title: "Study of Calculus of Several Variables and Calculus of Variations"
       year: "May 2025 – Present"
       description:
-        - "Study under Prof. K. Sandeep (TIFR-CAM, Bengaluru)"
-        - "Functional analytic foundations of multivariable calculus and variational methods"
-        - "Applications to the Dirichlet principle, Fréchet derivatives, and geometric analysis"
+        - "Independent study under Prof. K. Sandeep (TIFR-CAM, Bengaluru)"
+        - "Development of functional-analytic foundations for multivariable calculus and variational methods"
+        - "Applications include the Dirichlet principle, Fréchet derivatives, and geometric analysis"
 
 - title: Honors and Awards
   type: time_table
@@ -72,8 +72,8 @@
     - title: "Graph Theory"
       items:
         - "Structural graph theory"
-        - "Visibility graphs and digraphs"
-        - "Applications to interdisciplinary systems"
+        - "Visibility graphs and directed graphs"
+        - "Interdisciplinary applications of graph-theoretic models"
     - title: "Analysis and Optimization"
       items:
         - "Calculus of variations"
@@ -84,5 +84,5 @@
   type: list
   contents:
     - "<u>Chess:</u> Gold Medalist (IISM 2023), Top Scorer (Parakram ’24)"
-    - "<u>Literature:</u> 20th-century Bengali literature, story writing"
-    - "<u>Theatre:</u> Acting and direction in annual productions"
+    - "<u>Literature:</u> 20th-century Bengali literature, writing"
+    - "<u>Theatre:</u> Acting and direction in stage productions"
