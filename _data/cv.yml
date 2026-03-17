@@ -4,85 +4,167 @@
     - name: Full Name
       value: "Suparno Ghosh"
     - name: Date of Birth
-      value: "8 May 2005"
+      value: "9 May 2005"
     - name: Nationality
       value: "Indian"
-    - name: Languages
-      value: "Bengali (Native), English (C2), French (A2–B1)"
+    - name: Phone
+      value: "+91 7044124088"
+    - name: Email
+      value: "sg23ms120@iiserkol.ac.in"
+    - name: LinkedIn
+      value: "suparnoghosh"
     - name: Address
-      value: "C-009, NSCB Boys Hostel, IISER Kolkata, Haringhata, Kalyani, West Bengal, India"
+      value: "C-009 NSCB Boys Hostel, IISER Kolkata, Mohanpur, Nadia, West Bengal, India – 741246"
+
+- title: About Me
+  type: list
+  contents:
+    - "Third-year undergraduate at IISER Kolkata majoring in Mathematics and minoring in Computational and Data Science"
+    - "Interested in Structural Graph Theory and its applications in interdisciplinary domains"
+    - "Fascinated by interactions of graph theory with various branches of mathematics"
+    - "Enjoy philosophy, Bengali literature, chess, and theatre (acting and direction)"
 
 - title: Education
   type: time_table
   contents:
     - title: "BS–MS (Undergraduate)"
       institution: "Indian Institute of Science Education and Research Kolkata"
-      year: "2023 – Present"
+      year: "Aug 2023 – Present"
       description:
         - "Major in Mathematics (Pure)"
         - "Minor in Computational and Data Science"
         - "Pre-major in Physics"
-        - "CGPA: 9.03 · Latest Semester SGPA: 9.80"
+        - "Current SGPA: 9.80"
+        - "Current CGPA: 9.03"
+        - "Website: www.iiserkol.ac.in"
 
 - title: Research and Experience
   type: time_table
   contents:
     - title: "Student Intern"
-      institution: "Tata Institute of Fundamental Research – Centre for Applicable Mathematics, Bengaluru"
+      institution: "TIFR-CAM, Bengaluru"
       year: "May 2025 – Present"
       description:
-        - "Studying calculus of variations using techniques from advanced multivariable calculus and differential geometry"
-        - "Topics include Fréchet derivatives, inverse and implicit function theorems, manifolds, and variational principles"
-        - "Current work focuses on Hamiltonian formulations and Noether’s theorem from a mathematical perspective"
+        - "Studying calculus of variations using advanced multivariable calculus and differential geometry"
+        - "Exploring connections with functional analysis and variational principles"
 
 - title: Projects
   type: time_table
   contents:
-    - title: "Testing the Efficacy of Horizontal Visibility Graphs in Modeling Heart Rate Variability"
+    - title: "Horizontal Visibility Graphs for Heart Rate Variability"
       year: "Nov 2025 – Present"
       description:
-        - "Graph-theoretic modeling of chaotic behavior in heart rate variability using horizontal visibility graphs"
-        - "Exploration of applications to anomaly detection and disease diagnostics from time-series pulse data"
-        - "Initiated for Abhiprajna 2025 and currently under further development"
+        - "Graph-theoretic modeling of chaos in heart rate variability using HVGs"
+        - "Time-series analysis of pulse data to detect anomalies and diseases"
+        - "Initiated at Abhiprajna 2025 and currently under development"
 
-    - title: "Study of Calculus of Several Variables and Calculus of Variations"
+    - title: "Calculus of Several Variables and Calculus of Variations"
       year: "May 2025 – Present"
       description:
-        - "Independent study under Prof. K. Sandeep (TIFR-CAM, Bengaluru)"
-        - "Development of functional-analytic foundations for multivariable calculus and variational methods"
-        - "Applications include the Dirichlet principle, Fréchet derivatives, and geometric analysis"
+        - "Study under Prof. K. Sandeep (TIFR-CAM)"
+        - "Functional analytic approach to multivariable calculus"
+        - "Topics: Fréchet derivative, inverse & implicit function theorems"
+        - "Differential geometry: surfaces, patches, atlases, tangents, normals"
+        - "Variational methods: first variation, isoperimetric problems, inverse problems"
+        - "Study of Dirichlet principle and Fréchet derivatives via variational methods"
+        - "Ongoing work on Hamiltonians and Noether’s Theorem"
+        - "Link: https://drive.google.com/file/d/1H_n-tgSrItlDKnSbFI4IhxDJog_8YNmc/view"
+
+- title: Certifications and Programs
+  type: time_table
+  contents:
+    - title: "Summer School on Approximation Algorithms"
+      institution: "Indian Institute of Science, Bangalore"
+      year: "May 2025"
+      description:
+        - "Studied LP relaxation, primal-dual methods, SDP, Goemans-Williamson algorithm"
+        - "Topics: FPT approximations, multicut, local search, online algorithms, Cheeger’s inequality"
+        - "Link: https://algo.csa.iisc.ac.in/summerschool_25/"
+
+    - title: "Summer Research Fellowship"
+      institution: "IAS / INSA / NASI"
+      year: "2025"
+      description:
+        - "Selected for research in Mathematics at TIFR-CAM"
+        - "Link: https://webjapps.ias.ac.in/fellowship2025/lists/selectedList.jsp"
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: "2025"
       items:
-        - "Winner, Abhiprajna 2025 (IISER Tirupati)"
-        - "Summer Research Fellowship, IAS / INSA / NASI"
+        - "Winner – Abhiprajna 2025 (IISER Tirupati)"
+        - "Top scorer in quiz rounds; presented HRV modelling using HVGs"
     - year: "2023"
       items:
-        - "INSPIRE Scholarship, Department of Science and Technology, Government of India"
+        - "INSPIRE Scholarship – DST, Government of India"
     - year: "2021"
       items:
-        - "JBNSTS Fellowship, Government of West Bengal"
+        - "JBNSTS Fellowship – Government of West Bengal"
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: "Graph Theory"
+    - title: "Programming & Tools"
       items:
-        - "Structural graph theory"
-        - "Visibility graphs and directed graphs"
-        - "Interdisciplinary applications of graph-theoretic models"
-    - title: "Analysis and Optimization"
+        - "Python (Advanced)"
+        - "C++"
+        - "JavaScript"
+        - "MATLAB"
+        - "SageMath"
+        - "LaTeX (Advanced)"
+    - title: "Mathematics"
       items:
-        - "Calculus of variations"
-        - "Functional analysis"
-        - "Approximation algorithms"
+        - "Graph Theory (Advanced)"
+        - "Structural Graph Theory"
+        - "Linear Algebra (Advanced)"
+        - "Probability Theory"
+        - "Statistics (Intermediate)"
+        - "Functional Analysis"
+        - "Algorithms and Data Structures"
+        - "LP, SDP and Convex Optimization"
+
+- title: Language Skills
+  type: map
+  contents:
+    - name: Bengali
+      value: "Native"
+    - name: English
+      value: "C2 (Proficient)"
+    - name: French
+      value: "A2–B1"
+
+- title: Positions of Responsibility
+  type: time_table
+  contents:
+    - title: "Secretary, Chess Club"
+      institution: "IISER Kolkata"
+      year: "2024 – 2025"
+
+    - title: "Lead Actor (twice)"
+      institution: "Annual Drama Production, IISER Kolkata"
+      year: "2024 – 2025"
+
+- title: Achievements (Chess)
+  type: list
+  contents:
+    - "Gold Medalist – IISER Kolkata (IISM 2023)"
+    - "Top Scorer – Parakram 2024"
+    - "Active competitive chess player"
 
 - title: Other Interests
   type: list
   contents:
-    - "<u>Chess:</u> Gold Medalist (IISM 2023), Top Scorer (Parakram ’24)"
-    - "<u>Literature:</u> 20th-century Bengali literature, writing"
-    - "<u>Theatre:</u> Acting and direction in stage productions"
+    - "20th century Bengali literature"
+    - "Story writing"
+    - "Philosophy"
+    - "Theatre (acting and direction)"
+
+- title: Digital Skills
+  type: list
+  contents:
+    - "Information & Data Literacy – Advanced (Level 6/6)"
+    - "Communication & Collaboration – Advanced (Level 6/6)"
+    - "Digital Content Creation – Advanced (Level 6/6)"
+    - "Safety – Advanced (Level 6/6)"
+    - "Problem Solving – Advanced (Level 6/6)"
