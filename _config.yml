@@ -618,13 +618,4 @@ third_party_libraries:
  # - data: resume
   #  json: assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - education
-  - work
-  - projects
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
+
