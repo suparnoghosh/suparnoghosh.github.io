@@ -1,7 +1,11 @@
 ---
-author:
-- Suparno Ghosh
-title: "**The Mathematics of Imperfections**"
+layout: post
+title: "The Mathematics of Imperfections"
+date: 2026-08-02
+description: Reflections on the Dirichlet Principle and Sobolev spaces.
+tags: [math, philosophy]
+categories: [mathematics]
+featured: true
 ---
 
 ::: center
