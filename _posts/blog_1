@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The Mathematics of Imperfections"
+date: 2026-08-02
+description: >
+  A story about Riemann, Weierstrass, Sobolev spaces,
+  and why mathematics refuses to trust intuition.
+tags:
+  - mathematics
+  - analysis
+  - calculus-of-variations
+  - functional-analysis
+  - history
+  - philosophy
+categories:
+  - mathematics
+featured: true
+thumbnail: assets/img/blog/imperfections/header.jpg
+giscus_comments: true
+toc:
+  sidebar: left
+---
