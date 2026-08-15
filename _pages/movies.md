@@ -12,4 +12,4 @@ posters: assets/img/movie_posters/
 > From wherever you like.  
 > — Andrei Rublev (1966), Tarkovsky
 
-## Movies that I have watched, am watching, or plan to watch (not updated)
+## Films that taught me something about living...
