@@ -259,8 +259,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/disclosure-day/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-dune-part-two",
+          title: 'Dune: Part Two',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/dune-part-two/";
