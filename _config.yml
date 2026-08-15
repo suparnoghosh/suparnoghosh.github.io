@@ -421,7 +421,7 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/css/diff2html.min.css"
       js: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/js/diff2html-ui.min.js"
     version: "3.4.47"
-    echarts:
+  echarts:
     integrity:
       js:
         library: "sha256-QvgynZibb2U53SsVu98NggJXYqwRL7tg3FeyfXvPOUY="
