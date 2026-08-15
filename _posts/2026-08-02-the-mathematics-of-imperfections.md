@@ -8,10 +8,12 @@ categories: [mathematics]
 featured: true
 ---
 
-::: center
-*"mathematics is the part of physics where experiments are cheap"\
-newline - V. I. Arnold*
-:::
+<div style="text-align: center;">
+
+> *“Mathematics is the part of physics where experiments are cheap.”*  
+> — V. I. Arnold
+
+</div>
 
 **The startle**
 
