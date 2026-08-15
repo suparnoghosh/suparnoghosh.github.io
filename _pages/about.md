@@ -30,5 +30,4 @@ My academic interests lie primarily in **structural graph theory**, **approximat
 
 More details about my academic background and work can be found on the **CV** and **Projects** pages of this website. I also plan to write informal notes and reflections on mathematics and related topics on the **Blog**.
 
-Outside academics, I enjoy **chess**, **Bengali literature**, **philosophy**, and **theatre**—and occasionally wasting time on  
-[r/physicsmemes](https://www.reddit.com/r/physicsmemes/).
+Outside academics, I enjoy **chess**, **Bengali literature**, **philosophy**, and **theatre**... and occasionally wasting time on [r/physicsmemes](https://www.reddit.com/r/physicsmemes/).
