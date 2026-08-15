@@ -93,10 +93,13 @@ would, however, exist if the underlying set were $[0,\infty)$. In that
 case, $0$ would be the minimizer of $f$.
 
 <figure id="fig:minimizing-sequence">
-
-<figcaption>The sequence <span class="math inline">{1/<em>n</em>}</span>
-approaches <span class="math inline">0</span>, but <span
-class="math inline">0 ∉ ℝ<sup>+</sup></span>.</figcaption>
+  <img
+    src="{{ '/assets/img/blog/mathematics-of-imperfections/minimizing-sequence.svg' | relative_url }}"
+    alt="The sequence 1, 1/2, 1/3, 1/4, ... approaching 0"
+  >
+  <figcaption>
+    The sequence $\{1/n\}$ approaches $0$, but $0\notin\mathbb{R}^{+}$.
+  </figcaption>
 </figure>
 
 Alas! I did not have the wit to generate such a complete answer back
