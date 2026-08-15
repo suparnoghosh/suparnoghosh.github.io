@@ -95,7 +95,7 @@ surprisingly out of the ordinary.
 Of course, anyone having completed one or two college courses in
 mathematics would realize that we are trying to minimize the function
 $f(x)=x$ on $\mathbb{R}^{+}$. While we can certainly obtain a minimizing
-sequence, say $\left\{1,\frac{1}{2},\frac{1}{3},\dots,\frac{1}{n},\dots\right\}$,
+sequence, say $\{1,\frac{1}{2},\frac{1}{3},\ldots,\frac{1}{n},\ldots\}$,
 the minimizer (or the minimum) does not exist in $\mathbb{R}^{+}$. It
 would, however, exist if the underlying set were $[0,\infty)$. In that
 case, $0$ would be the minimizer of $f$.
