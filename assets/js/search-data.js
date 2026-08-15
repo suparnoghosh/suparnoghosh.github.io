@@ -519,8 +519,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the-kingdom-of-diamonds/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-the-lord-of-the-rings-the-fellowship-of-the-ring",
+          title: 'The Lord of the Rings: The Fellowship of the Ring',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the-lord-of-the-rings-the-fellowship-of-the-ring/";
