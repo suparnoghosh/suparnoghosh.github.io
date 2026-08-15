@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "All of my recent projects. There has been only one big mentionable one so far...",
+          description: "All of my recent projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -149,11 +149,16 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/interstellar/";
+            },},{id: "projects-test-sobolev-project",
+          title: 'Test Sobolev Project',
+          description: "Test project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/calculus2/";
             },},{id: "projects-calculus-of-variations-notes",
           title: 'Calculus of Variations Notes',
           description: "Notes from my internship at TIFR-CAM",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/calculus_variations/";
+              window.location.href = "/projects/calculus-variations/";
             },},{
         id: 'social-cv',
         title: 'CV',
