@@ -15,7 +15,7 @@ featured: true
 
 </div>
 
-**The startle**
+## The startle
 
 I knew he was one of the finest mathematicians of the community. I had
 admired him from afar, but I had never really met him. When he is not
@@ -54,7 +54,7 @@ mathematician sees exactly the same thing, but would rather have a proof
 on the page before assuming anything about the solutions. We don't like
 spoilers.\"
 
-# The question {#the-question .unnumbered}
+## The question
 
 I remember her asking me, "What could possibly be the smallest positive
 number?"
@@ -108,7 +108,7 @@ case, $0$ would be the minimizer of $f$.
 Alas! I did not have the wit to generate such a complete answer back
 then.
 
-# The journey {#the-journey .unnumbered}
+## The journey
 
 He wanted to tell me about the *Dirichlet Principle*. So, remember how,
 in high school, to find the minimum or maximum point of a function, we
@@ -393,7 +393,7 @@ What did it take? Nothing more than Weierstrass questioning the obvious
 and Sobolev (along with a few others!) thinking outside the box. Sobolev
 spaces were mathematics refusing to accept a spoiler from intuition.
 
-# In retrospect {#in-retrospect .unnumbered}
+## In retrospect
 
 Reality was never perfect in the first place. Our universe was never
 fine-tuned for continuity. Some of the most beautiful things in
