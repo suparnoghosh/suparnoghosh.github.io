@@ -96,6 +96,7 @@ case, $0$ would be the minimizer of $f$.
   <img
     src="{{ '/assets/img/blog/mathematics-of-imperfections/minimizing-sequence.svg' | relative_url }}"
     alt="The sequence 1, 1/2, 1/3, 1/4, ... approaching 0"
+    style="width: 80%; max-width: 700px;"
   >
   <figcaption>
     The sequence $\{1/n\}$ approaches $0$, but $0\notin\mathbb{R}^{+}$.
