@@ -134,8 +134,11 @@ newsletter:
 collections:
   books:
     output: true
+
   projects:
     output: true
+    permalink: /projects/:name/
+
   movies:
     output: true
 
