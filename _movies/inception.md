@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: Inception
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2010
+poster: inception.jpg
 categories: [english]
-stars: 5
+stars: 4
 status: watched
 ---

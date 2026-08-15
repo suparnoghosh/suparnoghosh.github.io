@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: The Odyssey
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2026
+poster: the-odyssey.jpg
 categories: [english]
-stars: 5
+stars: 3.5
 status: watched
 ---

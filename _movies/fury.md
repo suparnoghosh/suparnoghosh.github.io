@@ -1,9 +1,9 @@
 ---
 layout: movie-reviews
-title: Interstellar
-director: Christopher Nolan
+title: Fury
+director: David Ayer
 released: 2014
-poster: interstellar.jpg
+poster: fury.jpg
 categories: [english]
 stars: 5
 status: watched

@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: The Dark Knight
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2008
+poster: the-dark-knight.jpg
 categories: [english]
-stars: 5
+stars: 4.5
 status: watched
 ---

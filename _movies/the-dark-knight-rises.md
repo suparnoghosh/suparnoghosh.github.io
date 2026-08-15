@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: The Dark Knight Rises
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2012
+poster: the-dark-knight-rises.jpg
 categories: [english]
-stars: 5
+stars: 4
 status: watched
 ---

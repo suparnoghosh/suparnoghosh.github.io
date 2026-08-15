@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: The Prestige
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2006
+poster: the-prestige.jpg
 categories: [english]
-stars: 5
+stars: 4.5
 status: watched
 ---

@@ -1,9 +1,9 @@
 ---
 layout: movie-reviews
-title: Interstellar
-director: Christopher Nolan
+title: Whiplash
+director: Damien Chazelle
 released: 2014
-poster: interstellar.jpg
+poster: whiplash.jpg
 categories: [english]
 stars: 5
 status: watched

@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
-director: Christopher Nolan
+title: John Wick
+director: Chad Stahelski
 released: 2014
-poster: interstellar.jpg
+poster: john-wick.jpg
 categories: [english]
-stars: 5
+stars: 4.5
 status: watched
 ---

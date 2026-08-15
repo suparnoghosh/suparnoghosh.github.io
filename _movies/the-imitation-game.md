@@ -1,9 +1,9 @@
 ---
 layout: movie-reviews
-title: Interstellar
-director: Christopher Nolan
+title: The Imitation Game
+director: Morten Tyldum
 released: 2014
-poster: interstellar.jpg
+poster: the-imitation-game.jpg
 categories: [english]
 stars: 5
 status: watched

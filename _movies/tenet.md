@@ -1,10 +1,10 @@
 ---
 layout: movie-reviews
-title: Interstellar
+title: Tenet
 director: Christopher Nolan
-released: 2014
-poster: interstellar.jpg
+released: 2020
+poster: tenet.jpg
 categories: [english]
-stars: 5
+stars: 4.5
 status: watched
 ---
