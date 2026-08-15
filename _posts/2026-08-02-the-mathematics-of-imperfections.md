@@ -8,10 +8,10 @@ categories: [mathematics]
 featured: true
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; font-size: 1.15em; margin: 2em 0;">
 
-> *“Mathematics is the part of physics where experiments are cheap.”*  
-> — V. I. Arnold
+<p><em>“Mathematics is the part of physics where experiments are cheap.”</em></p>
+<p>— V. I. Arnold</p>
 
 </div>
 
