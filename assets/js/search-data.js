@@ -149,9 +149,9 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/interstellar/";
-            },},{id: "projects-test-sobolev-project",
-          title: 'Test Sobolev Project',
-          description: "Test project",
+            },},{id: "projects-calculus-of-variations-using-sobolev-spaces",
+          title: 'Calculus of Variations using Sobolev Spaces',
+          description: "Notes from my internship at IISc under the supervision of Prof. Swarnendu Sil in 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/calculus2/";
             },},{id: "projects-calculus-of-variations-notes",
