@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/spider-man-homecoming/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-spider-man-no-way-home",
+          title: 'Spider-Man: No Way Home',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/spider-man-no-way-home/";
