@@ -379,8 +379,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/midnight-in-paris/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-mission-impossible-the-final-reckoning",
+          title: 'Mission: Impossible – The Final Reckoning',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/mission-impossible-the-final-reckoning/";
