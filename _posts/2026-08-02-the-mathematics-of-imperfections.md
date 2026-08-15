@@ -117,8 +117,13 @@ objects more complicated than functions.
 
 To see what he was getting at, consider the definition:
 
-$$I(u) = \int_{\Omega} |\nabla u|^2\,dx.
-\label{eq:dirichlet-energy}$$
+<div id="eq:dirichlet-energy">
+
+$$
+I(u) = \int_{\Omega} |\nabla u|^2\,dx.
+$$
+
+</div>
 
 Let me explain what each term means.
 
@@ -145,8 +150,13 @@ $\nabla$:
 Our job is to minimize the value of $I$. Now, it turns out that whatever
 function $u$ minimizes $I$ must satisfy the equation
 
-$$\Delta u = 0,
-\label{eq:laplacian}$$
+<div id="eq:laplacian">
+
+$$
+\Delta u = 0.
+$$
+
+</div>
 
 where $\Delta$ (called the *Laplacian*) is nothing but $\nabla$ applied
 twice. So,
@@ -187,9 +197,7 @@ $$\nabla^2 u(x) = 0
 
 Therefore, it was only natural for Riemann to investigate and
 characterize such equations from a mathematical standpoint. He began
-looking for solutions of
-[\[eq:laplacian\]](#eq:laplacian){reference-type="eqref"
-reference="eq:laplacian"} in the set of all continuously differentiable
+looking for solutions of [Eq. (2)](#eq:laplacian) in the set of all continuously differentiable
 functions. We mathematicians call this the space $C^1$, where the "$C$"
 stands for "continuous" and the superscript "1" indicates that the
 function is once differentiable.
@@ -203,20 +211,15 @@ What he did next had only been hinted at by a few other mathematicians
 before him.[^1]
 
 We briefly discussed a few paragraphs ago what it was about. Just to
-recall, any function that minimizes
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"} must necessarily satisfy
-[\[eq:laplacian\]](#eq:laplacian){reference-type="eqref"
-reference="eq:laplacian"}. This is very reminiscent of finding the
+recall, any function that minimizes [Eq. (1)](#eq:dirichlet-energy) must necessarily satisfy
+[Eq. (2)](#eq:laplacian). This is very reminiscent of finding the
 critical points of a function in one dimension.
 
 You can think of $\Delta$ as being the "derivative" of $I$. Whenever
 $I(u)$ is minimized, we necessarily have $$\Delta u = 0.$$
 
 All seemed well. Riemann therefore turned his focus to finding
-minimizers of
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"}. Again, assuming that the minimizer
+minimizers of [Eq. (1)](#eq:dirichlet-energy). Again, assuming that the minimizer
 would be continuous and differentiable was only instinctive. Of course,
 as is often the case in mathematics, when you forget to pay attention to
 the most obvious assumptions, it backfires. Such a thing happened to
@@ -235,9 +238,7 @@ Theorem* still remains a favourite among mathematicians today.
 Weierstrass looked at Riemann's work and questioned what seemed the most
 obvious to everyone else. Almost like he did to me when I first met him!
 
-Why should the minimizer of
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"} lie in $C^1$ in the first place? What
+Why should the minimizer of [Eq. (1)](#eq:dirichlet-energy) lie in $C^1$ in the first place? What
 basis do we have for assuming that?
 
 Let's take an example to understand what he meant. Among all
@@ -302,15 +303,11 @@ incredibly complex, but it really is not!
 Forget about physics for a second. We needed the assumption of
 continuity because physical objects are generally assumed to be
 continuous---well, sort of! But to assign a sufficiently generous space
-to the function $u$ in
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"}, all we really need is that the square
+to the function $u$ in [Eq. (1)](#eq:dirichlet-energy), all we really need is that the square
 of its derivative be integrable, i.e., that it gives us a finite number
 when integrated.
 
-The space Sobolev chose for
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"} is called $W^{1,2}$. Here, the "2"
+The space Sobolev chose for [Eq. (1)](#eq:dirichlet-energy) is called $W^{1,2}$. Here, the "2"
 represents square integrability, and the "1" represents the first
 derivative that is being integrated. So, essentially, $W^{1,2}$ is the
 set of all functions whose first derivative is square integrable. And
@@ -383,9 +380,7 @@ So, there you have it. Modern-day mathematicians have successfully
 tackled this 200-year-old question with the help of measure theory and
 Sobolev space theory. $C^1$ functions were never good enough! We always
 needed a space of functions that goes beyond continuity and
-differentiability to search for minimizers of
-[\[eq:dirichlet-energy\]](#eq:dirichlet-energy){reference-type="eqref"
-reference="eq:dirichlet-energy"} that would ultimately satisfy
+differentiability to search for minimizers of [Eq. (1)](#eq:dirichlet-energy) that would ultimately satisfy
 
 $$\Delta u = 0.$$
 
