@@ -8,7 +8,7 @@ categories: [mathematics]
 featured: true
 ---
 
-<div style="text-align: center; font-size: 1.15em; margin: 2em 0;">
+<div style="text-align: center; font-size: 1.3em; margin: 2em 0;">
 
 <p><em>“Mathematics is the part of physics where experiments are cheap.”</em></p>
 <p>— V. I. Arnold</p>
