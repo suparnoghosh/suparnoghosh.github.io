@@ -339,8 +339,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/john-wick-chapter-2/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-john-wick-chapter-3-parabellum",
+          title: 'John Wick: Chapter 3 – Parabellum',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/john-wick-chapter-3-parabellum/";
