@@ -58,7 +58,7 @@ layout: default
     </p>
   </header>
 
-  <article class="post-content">
+  <article class="post-content mathematics-blog">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
         {% toc %}
@@ -90,7 +90,29 @@ layout: default
   {% if site.disqus_shortname and page.disqus_comments %}
     {% include disqus.liquid %}
   {% endif %}
+
+
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
 </div>
+
+<style>
+  .mathematics-blog figure {
+    margin: 2.5rem auto;
+    text-align: center;
+  }
+
+  .mathematics-blog figure img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .mathematics-blog figure figcaption {
+    margin-top: 0.75rem;
+    text-align: center;
+    font-size: 0.9em;
+    font-style: italic;
+  }
+</style>
