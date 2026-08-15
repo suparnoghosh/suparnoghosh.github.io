@@ -334,8 +334,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/jaws/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-john-wick-chapter-2",
+          title: 'John Wick: Chapter 2',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/john-wick-chapter-2/";
