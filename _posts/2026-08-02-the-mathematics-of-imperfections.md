@@ -263,10 +263,10 @@ not!
 
 <figure id="fig:weierstrass">
   <img
-    src="{{ '/assets/img/blog/mathematics-of-imperfections/weierstrass.svg' | relative_url }}"
-    alt="Different paths joining A to B through C"
-    style="width: 80%; max-width: 700px;"
-  >
+  src="{{ '/assets/img/blog/mathematics-of-imperfections/weierstrass.svg' | relative_url }}"
+  alt="Different paths joining A to B through C"
+  style="display: block; width: 80%; max-width: 700px; height: auto; margin: 1.5rem auto;"
+>
   <figcaption>
     Straight and continuous paths joining A to B through C.
   </figcaption>
@@ -347,10 +347,10 @@ $$f(x) = |x|$$
 
 <figure id="fig:absolute-value">
   <img
-    src="{{ '/assets/img/blog/mathematics-of-imperfections/absolute-value.svg' | relative_url }}"
-    alt="Graph of f(x) = |x|"
-    style="width: 80%; max-width: 700px;"
-  >
+  src="{{ '/assets/img/blog/mathematics-of-imperfections/absolute-value.svg' | relative_url }}"
+  alt="Graph of f(x) = |x|"
+  style="display: block; width: 65%; max-width: 550px; height: auto; margin: 1.5rem auto;"
+>
   <figcaption>
     The function \(f(x)=|x|\).
   </figcaption>
@@ -371,10 +371,10 @@ $$\dfrac{df}{dx} =
 
 <figure id="fig:weakderivative">
   <img
-    src="{{ '/assets/img/blog/mathematics-of-imperfections/weak-derivative.svg' | relative_url }}"
-    alt="Graph of the weak derivative of the absolute-value function"
-    style="width: 80%; max-width: 700px;"
-  >
+  src="{{ '/assets/img/blog/mathematics-of-imperfections/weak-derivative.svg' | relative_url }}"
+  alt="Graph of the weak derivative of the absolute-value function"
+  style="display: block; width: 65%; max-width: 550px; height: auto; margin: 1.5rem auto;"
+>
   <figcaption>
     A representative graph of the weak derivative of \(f(x)=|x|\).
   </figcaption>
