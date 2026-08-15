@@ -42,9 +42,7 @@ questioning every elementary fact I had ever learned while sitting
 across from a mathematical giant with perhaps the most intimidating aura
 I had ever encountered.
 
-Almost apologetically, I asked,
-
-> "Umm... But it must be obviously true, right?"
+Almost apologetically, I asked, "Umm... But it must be obviously true, right?"
 
 He let out a faint snort of derision. What he said next was enchanting.
 
