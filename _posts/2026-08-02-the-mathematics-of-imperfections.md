@@ -36,23 +36,23 @@ I had ever encountered.
 
 Almost apologetically, I asked,
 
-"Umm\... But it must be obviously true, right?\"
+> "Umm... But it must be obviously true, right?"
 
 He let out a faint snort of derision. What he said next was enchanting.
 
-"Mathematicians don't ask whether something is true before they know it
-is true. That's what physicists and engineers do. We sit down with the
-problem, prove the result with complete rigour, and only then do we say
-that it is true - no matter how obvious it may have seemed at first
-glance.\"
+> "Mathematicians don't ask whether something is true before they know it
+> is true. That's what physicists and engineers do. We sit down with the
+> problem, prove the result with complete rigour, and only then do we say
+> that it is true - no matter how obvious it may have seemed at first
+> glance."
 
 He paused for a moment before adding,
 
-"A physicist sees water flowing smoothly from a tap and assumes that the
-Navier-Stokes equations must therefore have smooth solutions. A
-mathematician sees exactly the same thing, but would rather have a proof
-on the page before assuming anything about the solutions. We don't like
-spoilers.\"
+> "A physicist sees water flowing smoothly from a tap and assumes that the
+> Navier-Stokes equations must therefore have smooth solutions. A
+> mathematician sees exactly the same thing, but would rather have a proof
+> on the page before assuming anything about the solutions. We don't like
+> spoilers."
 
 ## The question
 
@@ -98,7 +98,7 @@ case, $0$ would be the minimizer of $f$.
   <img
     src="{{ '/assets/img/blog/mathematics-of-imperfections/minimizing-sequence.svg' | relative_url }}"
     alt="The sequence 1, 1/2, 1/3, 1/4, ... approaching 0"
-    style="width: 80%; max-width: 700px;"
+    style="display: block; width: 80%; max-width: 700px; height: auto; margin: 1.5rem auto;"
   >
   <figcaption>
     The sequence $\{1/n\}$ approaches $0$, but $0\notin\mathbb{R}^{+}$.
@@ -292,13 +292,13 @@ how did the physicists react to all this?
 They took quite the opposite stance. Completely rejecting Weierstrass'
 critique, the famous physicist Helmholtz remarked,
 
-"For us physicists, the Dirichlet Principle remains a proof."
+> "For us physicists, the Dirichlet Principle remains a proof."
 
 Felix Klein, in his book *Development of Mathematics in the 19th
 Century*, writes,
 
-"\...it is a general fact that physicists are little troubled by the
-fine points of mathematics---for them the 'evidence' is sufficient."
+> "...it is a general fact that physicists are little troubled by the
+> fine points of mathematics---for them the 'evidence' is sufficient."
 
 History records a rather amusing twist in the tale afterwards.
 
