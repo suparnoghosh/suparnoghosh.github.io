@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: All of my recent projects. There has been only one big mentionable one so far...
+description: All of my recent projects. 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
