@@ -122,7 +122,7 @@ To see what he was getting at, consider the definition:
 <div id="eq:dirichlet-energy">
 
 $$
-I(u) = \int_{\Omega} |\nabla u|^2\,dx.
+I(u) = \int_{\Omega} |\nabla u|^2\,dx. \tag{1}
 $$
 
 </div>
@@ -143,7 +143,7 @@ function $u$ minimizes $I$ must satisfy the equation
 <div id="eq:laplacian">
 
 $$
-\Delta u = 0.
+\Delta u = 0. \tag{2}
 $$
 
 </div>
@@ -244,7 +244,7 @@ not!
   <img
   src="{{ '/assets/img/blog/mathematics-of-imperfections/weierstrass.svg' | relative_url }}"
   alt="Different paths joining A to B through C"
-  style="display: block; width: 80%; max-width: 700px; height: auto; margin: 1.5rem auto;"
+  style="display: block; width: 60%; max-width: 700px; height: auto; margin: 1.5rem auto;"
 >
   <figcaption>
     Straight and continuous paths joining A to B through C.
