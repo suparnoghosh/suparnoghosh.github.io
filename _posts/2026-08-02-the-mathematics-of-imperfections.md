@@ -402,7 +402,6 @@ perhaps in the space in which I insisted on searching for her. It was
 not smooth all the time, but then again, neither is life, love, and
 ecstasy.
 
----
 
 [^1]: Notably, Gauss in 1840 and W. Thomson in 1847. Dirichlet, a few
     years later, came up with the idea and passed it on to Riemann, who
