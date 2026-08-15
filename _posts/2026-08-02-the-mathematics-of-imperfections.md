@@ -5,7 +5,7 @@ date: 2026-08-02
 description: Reflections on the Dirichlet Principle and Sobolev spaces.
 tags: [math, philosophy]
 categories: [mathematics]
-featured: true
+featured: false
 ---
 
 <div style="text-align: center; font-size: 1.3em; margin: 2em 0;">
