@@ -1,6 +1,6 @@
 ---
 layout: movie-reviews
-title: Top Gun: Maverick
+title: "Top Gun: Maverick"
 director: Joseph Kosinski
 released: 2022
 poster: top-gun-maverick.jpg
