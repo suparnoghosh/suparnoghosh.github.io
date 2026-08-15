@@ -584,8 +584,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/tirandaj-shabor/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-top-gun-maverick",
+          title: 'Top Gun: Maverick',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/top-gun-maverick/";
