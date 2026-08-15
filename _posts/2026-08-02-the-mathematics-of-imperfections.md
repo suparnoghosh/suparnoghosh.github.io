@@ -150,13 +150,13 @@ $\nabla$:
     $\dfrac{du}{dx}$ in one dimension.
 
 
-**\(I\)** — It is called a *functional*. A "function of functions", if you may. It takes a function as input and returns a number as output.
+**\($I$\)** — It is called a *functional*. A "function of functions", if you may. It takes a function as input and returns a number as output.
 
-**\(u\)** — The function on which \(I\) acts.
+**\($u$\)** — The function on which \(I\) acts.
 
-**\(\Omega\)** — An arbitrary *open* set. Let's say $(0,1)$. In that case, theintegral would be $\int_0^1 \dots$.
+**\($\Omega$\)** — An arbitrary *open* set. Let's say $(0,1)$. In that case, theintegral would be $\int_0^1 \dots$.
 
-**\(\nabla\)** — Called the *gradient*. You may have seen this symbol in physics. It's exactly like taking the derivative of $u$, i.e., $\dfrac{du}{dx}$ in one dimension.
+**\($\nabla$\)** — Called the *gradient*. You may have seen this symbol in physics. It's exactly like taking the derivative of $u$, i.e., $\dfrac{du}{dx}$ in one dimension.
 
 Our job is to minimize the value of $I$. Now, it turns out that whatever
 function $u$ minimizes $I$ must satisfy the equation
