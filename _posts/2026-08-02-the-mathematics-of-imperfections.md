@@ -396,23 +396,18 @@ your own eyes.
 
 I have not heard from her in ages. I do not know where she is, how she
 is, what she is doing, or even whether she is happy.
-
 I only know that I made the terrible mistake of trying to make her fit
 into my own idea of perfection. The flaw was never in her, it was
 perhaps in the space in which I insisted on searching for her. It was
 not smooth all the time, but then again, neither is life, love, and
 ecstasy.
 
-::: center
-
-------------------------------------------------------------------------
-:::
+---
 
 [^1]: Notably, Gauss in 1840 and W. Thomson in 1847. Dirichlet, a few
     years later, came up with the idea and passed it on to Riemann, who
     then named it the *Dirichlet Principle* after the person he had
     learned it from.
-
 [^2]: If you are an undergraduate in mathematics, buckle up---you might
     be hearing this name almost every day throughout your career.
 
