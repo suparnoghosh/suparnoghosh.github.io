@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/saving-private-ryan/";
-            },},{id: "movies-",
-          title: '',
+            },},{id: "movies-spider-man-brand-new-day",
+          title: 'Spider-Man: Brand New Day',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/spider-man-brand-new-day/";
