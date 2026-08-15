@@ -250,9 +250,13 @@ minimizer in the space of all continuously differentiable paths would
 not!
 
 <figure id="fig:weierstrass">
-
-<figcaption>Straight and continuous paths joining A to B through
-C.</figcaption>
+  <img
+    src="{{ '/assets/img/blog/mathematics-of-imperfections/weierstrass.svg' | relative_url }}"
+    alt="Different paths joining A to B through C"
+  >
+  <figcaption>
+    Straight and continuous paths joining A to B through C.
+  </figcaption>
 </figure>
 
 There is no smallest positive number!
@@ -333,7 +337,13 @@ are in good shape.[^4] Take an example of the function:
 $$f(x) = |x|$$
 
 <figure id="fig:absolute-value">
-
+  <img
+    src="{{ '/assets/img/blog/mathematics-of-imperfections/absolute-value.svg' | relative_url }}"
+    alt="Graph of f(x) = |x|"
+  >
+  <figcaption>
+    The function \(f(x)=|x|\).
+  </figcaption>
 </figure>
 
 By the original idea of the derivatives we could not really
@@ -350,7 +360,13 @@ $$\dfrac{df}{dx} =
 \end{cases}$$
 
 <figure id="fig:weakderivative">
-
+  <img
+    src="{{ '/assets/img/blog/mathematics-of-imperfections/weak-derivative.svg' | relative_url }}"
+    alt="Graph of the weak derivative of the absolute-value function"
+  >
+  <figcaption>
+    A representative graph of the weak derivative of \(f(x)=|x|\).
+  </figcaption>
 </figure>
 
 and that would be a perfectly valid weak derivative of $f$, even though
