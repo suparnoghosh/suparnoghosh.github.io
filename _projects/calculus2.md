@@ -4,7 +4,7 @@ title: Calculus of Variations using Sobolev Spaces
 description: Notes from my internship at IISc under the supervision of Prof. Swarnendu Sil in 2026.
 importance: 2
 category: work
-img: assets/img/sobolev.png
+img: /assets/img/sobolev.png
 ---
 
 These notes were prepared during my internship at **IISc, Bengaluru** under **Prof. Swarnendu Sil**.
