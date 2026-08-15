@@ -15,6 +15,14 @@ featured: true
 
 </div>
 
+<div class="essay-remarks">
+
+<p><strong>Remark 1.</strong> I recommend reading this in light mode. You can toggle it using the three-line menu at the top of the page.</p>
+
+<p><strong>Remark 2.</strong> This essay is intended for readers with a high-school mathematics background. You may not understand all of it, but it might surprise you in a few places.</p>
+
+</div>
+
 ## The startle
 
 I knew he was one of the finest mathematicians of the community. I had
