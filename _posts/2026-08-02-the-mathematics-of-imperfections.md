@@ -256,6 +256,7 @@ not!
   <img
     src="{{ '/assets/img/blog/mathematics-of-imperfections/weierstrass.svg' | relative_url }}"
     alt="Different paths joining A to B through C"
+    style="width: 80%; max-width: 700px;"
   >
   <figcaption>
     Straight and continuous paths joining A to B through C.
@@ -339,6 +340,7 @@ $$f(x) = |x|$$
   <img
     src="{{ '/assets/img/blog/mathematics-of-imperfections/absolute-value.svg' | relative_url }}"
     alt="Graph of f(x) = |x|"
+    style="width: 80%; max-width: 700px;"
   >
   <figcaption>
     The function \(f(x)=|x|\).
@@ -362,6 +364,7 @@ $$\dfrac{df}{dx} =
   <img
     src="{{ '/assets/img/blog/mathematics-of-imperfections/weak-derivative.svg' | relative_url }}"
     alt="Graph of the weak derivative of the absolute-value function"
+    style="width: 80%; max-width: 700px;"
   >
   <figcaption>
     A representative graph of the weak derivative of \(f(x)=|x|\).
