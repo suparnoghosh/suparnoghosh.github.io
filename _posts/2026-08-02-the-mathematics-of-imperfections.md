@@ -139,7 +139,7 @@ Let me explain what each term means.
 
 **\($u$\)** — The function on which \(I\) acts.
 
-**\($\Omega$\)** — An arbitrary *open* set. Let's say $(0,1)$. In that case, theintegral would be $\int_0^1 \dots$.
+**\($\Omega$\)** — An arbitrary *open* set. Let's say $(0,1)$. In that case, the integral would be $\int_0^1 \dots$.
 
 **\($\nabla$\)** — Called the *gradient*. You may have seen this symbol in physics. It's exactly like taking the derivative of $u$, i.e., $\dfrac{du}{dx}$ in one dimension.
 
@@ -199,7 +199,7 @@ stands for "continuous" and the superscript "1" indicates that the
 function is once differentiable.
 
 It must be noted that Riemann was not "consciously" searching for
-solutions in $C^1$. For him, the choice was as natural as it gets---the
+solutions in $C^1$. For him, the choice was as natural as it gets - the
 assumption that a physical potential would be continuous and
 differentiable was taken for granted. So, he stuck with it.
 
@@ -291,7 +291,7 @@ History records a rather amusing twist in the tale afterwards.
 
 In the 1930s, the Russian mathematician Sergei Sobolev developed a
 complete framework to prove that a minimizing sequence does, in fact,
-converge to a minimizer in a special kind of function space---Sobolev
+converge to a minimizer in a special kind of function space - Sobolev
 spaces!
 
 What were these spaces? You might imagine that the mathematics is
@@ -299,7 +299,7 @@ incredibly complex, but it really is not!
 
 Forget about physics for a second. We needed the assumption of
 continuity because physical objects are generally assumed to be
-continuous---well, sort of! But to assign a sufficiently generous space
+continuous - well, sort of! But to assign a sufficiently generous space
 to the function $u$ in [Eq. (1)](#eq:dirichlet-energy), all we really need is that the square
 of its derivative be integrable, i.e., that it gives us a finite number
 when integrated.
