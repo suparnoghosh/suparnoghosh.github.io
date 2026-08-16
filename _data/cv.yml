@@ -42,12 +42,21 @@
   type: time_table
   contents:
     - title: "Student Intern"
-      institution: "TIFR-CAM, Bengaluru"
-      year: "May 2025 – Present"
+      institution: "Indian Institute of Science (IISc), Bengaluru"
+      year: "May 2026 – Jun 2026"
       description:
-        - "Studying calculus of variations using advanced multivariable calculus and differential geometry"
-        - "Exploring connections with functional analysis and variational principles"
+        - "Worked under the supervision of Prof. Swarnendu Sil on the variational approach to the Dirichlet Problem."
+        - "Studied Sobolev spaces, weak derivatives, and the Dirichlet principle."
+        - "Developed a set of notes connecting the calculus of variations with modern methods in PDE theory."
+        - "Report: /assets/pdf/Sobolev_CoV_Swarnendu_Sir_IISc.pdf"
 
+    - title: "Student Intern"
+      institution: "TIFR Centre for Applicable Mathematics (TIFR-CAM), Bengaluru"
+      year: "2025"
+      description:
+        - "Studied multivariable calculus and calculus of variations under the supervision of Prof. K. Sandeep."
+        - "Explored connections between differential geometry, functional analysis, and variational principles."
+        
 - title: Projects
   type: time_table
   contents:
@@ -87,6 +96,20 @@
       description:
         - "Selected for research in Mathematics at TIFR-CAM"
         - "Link: https://webjapps.ias.ac.in/fellowship2025/lists/selectedList.jsp"
+        
+    - title: "Summer Program in Analysis and Related Topics 2026"
+      institution: "TIFR Centre for Applicable Mathematics (TIFR-CAM), Bengaluru"
+      year: "May 2026"
+      description:
+        - "Participated in the Summer Program in Analysis and Related Topics 2026."
+        - "Attended seminars and lectures on analysis and related topics in mathematics."
+
+    - title: "Annual Foundation School III (AFS-III)"
+      institution: "National Centre for Mathematics (NCM) · IISER Kolkata"
+      year: "Jun 2026 – Jul 2026"
+      description:
+        - "Participated in an intensive workshop in mathematics organized jointly by TIFR and IIT Bombay."
+        - "Held at IISER Kolkata from June 29 to July 25, 2026."
 
 - title: Honors and Awards
   type: time_table
