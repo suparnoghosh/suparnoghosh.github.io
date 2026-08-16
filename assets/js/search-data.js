@@ -239,11 +239,6 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/devi/";
-            },},{id: "movies-dhurandhar-the-revenge",
-          title: 'Dhurandhar The Revenge',
-          description: "",
-          section: "Movies",handler: () => {
-              window.location.href = "/movies/dhurandhar-the-revenge/";
             },},{id: "movies-dhurandhar",
           title: 'Dhurandhar',
           description: "",
