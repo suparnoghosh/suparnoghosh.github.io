@@ -57,27 +57,6 @@
         - "Studied multivariable calculus and calculus of variations under the supervision of Prof. K. Sandeep."
         - "Explored connections between differential geometry, functional analysis, and variational principles."
         
-- title: Projects
-  type: time_table
-  contents:
-    - title: "Horizontal Visibility Graphs for Heart Rate Variability"
-      year: "Nov 2025 – Present"
-      description:
-        - "Graph-theoretic modeling of chaos in heart rate variability using HVGs"
-        - "Time-series analysis of pulse data to detect anomalies and diseases"
-        - "Initiated at Abhiprajna 2025 and currently under development"
-
-    - title: "Calculus of Several Variables and Calculus of Variations"
-      year: "May 2025 – Present"
-      description:
-        - "Study under Prof. K. Sandeep (TIFR-CAM)"
-        - "Functional analytic approach to multivariable calculus"
-        - "Topics: Fréchet derivative, inverse & implicit function theorems"
-        - "Differential geometry: surfaces, patches, atlases, tangents, normals"
-        - "Variational methods: first variation, isoperimetric problems, inverse problems"
-        - "Study of Dirichlet principle and Fréchet derivatives via variational methods"
-        - "Ongoing work on Hamiltonians and Noether’s Theorem"
-        - "Link: https://drive.google.com/file/d/1H_n-tgSrItlDKnSbFI4IhxDJog_8YNmc/view"
 
 - title: Certifications and Programs
   type: time_table
@@ -110,6 +89,29 @@
       description:
         - "Participated in an intensive workshop in mathematics organized jointly by TIFR and IIT Bombay."
         - "Held at IISER Kolkata from June 29 to July 25, 2026."
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: "Horizontal Visibility Graphs for Heart Rate Variability"
+      year: "Nov 2025 – Present"
+      description:
+        - "Graph-theoretic modeling of chaos in heart rate variability using HVGs"
+        - "Time-series analysis of pulse data to detect anomalies and diseases"
+        - "Initiated at Abhiprajna 2025 and currently under development"
+
+    - title: "Calculus of Several Variables and Calculus of Variations"
+      year: "May 2025 – Present"
+      description:
+        - "Study under Prof. K. Sandeep (TIFR-CAM)"
+        - "Functional analytic approach to multivariable calculus"
+        - "Topics: Fréchet derivative, inverse & implicit function theorems"
+        - "Differential geometry: surfaces, patches, atlases, tangents, normals"
+        - "Variational methods: first variation, isoperimetric problems, inverse problems"
+        - "Study of Dirichlet principle and Fréchet derivatives via variational methods"
+        - "Ongoing work on Hamiltonians and Noether’s Theorem"
+        - "Link: https://drive.google.com/file/d/1H_n-tgSrItlDKnSbFI4IhxDJog_8YNmc/view"
+
 
 - title: Honors and Awards
   type: time_table
