@@ -10,4 +10,4 @@ collection: books
 >
 > -- Groucho Marx
 
-## Books that I am reading, have read, or will read
+## A few of my book recommendations (not updated):
