@@ -26,7 +26,7 @@ latest_posts:
 
 Hello! I’m **Suparno Ghosh**, a third-year undergraduate at **IISER Kolkata**, majoring in **Mathematics** with a minor in **Computational and Data Science**.
 
-My academic interests lie primarily in **calculus of variations**, **control of PDEs**, **structural graph theory** and **approximation algorithms**,. I am particularly interested in understanding how abstract mathematical structures interact with computational and applied problems, and in exploring graph-theoretic perspectives on real-world and interdisciplinary systems.
+My academic interests lie primarily in **calculus of variations**, **control of PDEs**, **structural graph theory** and **approximation algorithms**,. I am particularly interested in understanding how abstract mathematical structures interact with computational and applied problems, along with variational techniques to solve PDEs and in exploring graph-theoretic perspectives on real-world and interdisciplinary systems.
 
 More details about my academic background and work can be found on the **CV** and **Projects** pages of this website. I also plan to write informal notes and reflections on mathematics and related topics on the **Blog**.
 
